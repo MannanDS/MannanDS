@@ -21,6 +21,7 @@ Passionate about **Artificial Intelligence**, **Data Science**, and **Cybersecur
 ## 🛠️ Projects
 - 🔒 [Fernet-File-Locker](https://github.com/MannanDS/Fernet-File-Locker): Secure file encryption using Fernet symmetric encryption
 - 🔑 [Password-Checker](https://github.com/MannanDS/Password-Checker): Tool for evaluating password strength
+- 🖩 [CLI-Calcuator](https://github.com/MannanDS/CLI-Calucator): An simple calcuator made in c to perform operations on 2 digits.
 
 ---
 
