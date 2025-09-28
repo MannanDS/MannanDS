@@ -10,11 +10,17 @@ Passionate about **Artificial Intelligence**, **Data Science**, and **Cybersecur
 
 ---
 
-## 🧠 Interests & Skills
-- **AI & Machine Learning:** Exploring models, algorithms, and intelligent systems
-- **Data Science:** Analyzing data, building visualizations, and uncovering insights
-- **Cybersecurity:** Learning to secure systems and protect data
-- **Python Enthusiast:** Building projects that solve real-world problems
+## 🧠 Skills & Interests
+
+- Programming & Web Development: Python, JavaScript, HTML, CSS, Flask, Django, SQL, MongoDB
+
+- AI & Machine Learning: Exploring models, algorithms, and intelligent systems using Scikit-learn, TensorFlow, PyTorch
+
+- Data Science: Data analysis, visualization (Pandas, NumPy, Matplotlib, Seaborn), APIs & web scraping
+
+- Cybersecurity: Linux, Bash scripting, networking basics, ethical hacking tools (Wireshark, Metasploit), cryptography & secure coding
+
+- Dev Tools & Productivity: Git & GitHub, VS Code, CLI utilities for automation
 
 ---
 
