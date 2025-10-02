@@ -1,8 +1,7 @@
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=36&pause=1000&color=2563EB&center=true&width=600&lines=Hi,+I'm+Mannan!+%F0%9F%91%8B)
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&pause=1000&color=4A90E2&center=true&width=400&lines=Hi,+I'm+Mannan!" alt="Typing SVG"/>
 </p>
+
 
 <p align="center" style="font-size:18px; font-weight:600; color:#2563EB; margin-top:-10px;">
   Student & Aspiring Developer specializing in <span style="color:#1E40AF;">Artificial Intelligence</span>, <span style="color:#1E40AF;">Data Science</span>, and <span style="color:#1E40AF;">Cybersecurity</span>
