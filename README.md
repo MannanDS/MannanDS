@@ -1,47 +1,72 @@
-# Hi, I'm Mannan! 👋
+<p align="center">
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=36&pause=1000&color=2563EB&center=true&width=600&lines=Hi,+I'm+Mannan!+%F0%9F%91%8B)
 
-Welcome to my GitHub profile!
 
----
+</p>
 
-## 🚀 About Me
-**Student & Aspiring Developer**  
-Passionate about **Artificial Intelligence**, **Data Science**, and **Cybersecurity**
-
----
-
-## 🧠 Skills & Interests
-
-- Programming & Web Development: Python, JavaScript, HTML, CSS, Flask, Django, SQL, MongoDB
-
-- AI & Machine Learning: Exploring models, algorithms, and intelligent systems using Scikit-learn, TensorFlow, PyTorch
-
-- Data Science: Data analysis, visualization (Pandas, NumPy, Matplotlib, Seaborn), APIs & web scraping
-
-- Cybersecurity: Linux, Bash scripting, networking basics, ethical hacking tools (Wireshark, Metasploit), cryptography & secure coding
-
-- Dev Tools & Productivity: Git & GitHub, VS Code, CLI utilities for automation
+<p align="center" style="font-size:18px; font-weight:600; color:#2563EB; margin-top:-10px;">
+  Student & Aspiring Developer specializing in <span style="color:#1E40AF;">Artificial Intelligence</span>, <span style="color:#1E40AF;">Data Science</span>, and <span style="color:#1E40AF;">Cybersecurity</span>
+</p>
 
 ---
 
-## 🛠️ Projects
-- 🔒 [Fernet-File-Locker](https://github.com/MannanDS/Fernet-File-Locker): Secure file encryption using Fernet symmetric encryption
-- 🔑 [Password-Checker](https://github.com/MannanDS/Password-Checker): Tool for evaluating password strength
-- 🖩 [CLI-Calcuator](https://github.com/MannanDS/CLI-Calucator): An simple calcuator made in c to perform operations on 2 digits.
+## 🧠 Skills & Expertise
+
+| Programming & Web Development             | AI & Machine Learning                     | Data Science & Visualization                  | Cybersecurity & Dev Tools                      |
+|-------------------------------------------|------------------------------------------|------------------------------------------------|-----------------------------------------------|
+| Python, JavaScript, HTML, CSS, Flask, Django | Scikit-learn, TensorFlow, PyTorch       | Pandas, NumPy, Matplotlib, Seaborn, APIs       | Linux, Bash, Wireshark, Metasploit, Cryptography |
+| SQL, MongoDB                              | Model development, Algorithm design     | Web Scraping, Data Analysis                     | Secure coding, Ethical hacking tools           |
 
 ---
 
-## 🌱 Currently Learning
-- Advanced AI techniques & Neural Networks
-- Data Analysis with Pandas & NumPy
-- Ethical Hacking & Security Fundamentals
+## 🚀 Key Projects
+
+- 🔒 [Fernet-File-Locker](https://github.com/MannanDS/Fernet-File-Locker)  
+  *A robust file encryption tool using Fernet symmetric encryption for secure data protection.*
+
+- 🔑 [Password-Checker](https://github.com/MannanDS/Password-Checker)  
+  *A comprehensive password strength evaluation tool helping users create secure credentials.*
+
+- 🖩 [Spam-Detection](https://github.com/MannanDS/Spam-Detection)  
+  *This project implements a simple spam classifier using Naive Bayes and CountVectorizer in Python.
+It trains on the popular SMS Spam Collection Dataset and allows you to test custom messages.*
 
 ---
 
-## 📫 How to Reach Me
-- Connect with me on GitHub
-- Let’s collaborate on cool AI, Data, or Security projects!
+## 🌱 Currently Deep Diving Into
+
+- Advanced Neural Networks & Deep Learning  
+- Data Science: Advanced Pandas & NumPy Techniques  
+- Ethical Hacking & Cybersecurity Fundamentals
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MannanDS&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannanDS&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MannanDS&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MannanDS" target="_blank" rel="noopener">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/MannanDS?style=social" />
+  </a>
+</p>
+
+---
+
+<p align="center" style="font-style: italic; font-size: 16px; color: #374151;">
+  “The best way to predict the future is to invent it.” – Alan Kay
+</p>
